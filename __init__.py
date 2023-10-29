@@ -1,1 +1,3 @@
-from .summarypart2 import DataSummary
+from.data_summary.summarypart2 import DataSummary
+from.exploratory_data_analysis.analysispart3 import ExploratoryDataAnalysis
+from.inference.inferencepart4 import Inference
